@@ -63,6 +63,17 @@ const config = {
         },
       },
     ],
+    [
+      'docusaurus-plugin-llms',
+      {
+        generateLLMsTxt: true,
+        // generateMarkdownFiles: true,
+        excludeImports: true,
+        removeDuplicateHeadings: true,
+        includeOrder: ['modules/*', 'reference/*', 'guides/*', 'examples/*', 'commands/*', 'events/*'],
+        ignoreFiles: ['downloads']
+      },
+    ],
   ],
 
   themeConfig:
