@@ -128,7 +128,7 @@ const config = {
       announcementBar: {
         id: 'new_features',
         content:
-          'New Features: <a href="/docs/modules/general/proto">Proto 1.5.0</a>, <a href="/docs/modules/mechanics/tracking-compass">Tracking Compass</a>, <a href="/docs/modules/gear/consumables">Consumables</a>, and <a href="/docs/modules/general/main#map-variants">Map Variants</a>',
+          'New Features: <a href="/docs/modules/general/proto">Proto 1.5.1</a>, <a href="/docs/modules/mechanics/tracking-compass">Tracking Compass</a>, <a href="/docs/modules/gear/consumables">Consumables</a>, and <a href="/docs/modules/general/main#map-variants">Map Variants</a>',
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
         isCloseable: true,
